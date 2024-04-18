@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "919551676172",
-    "project_id": "lifeline-9c087",
-    "storage_bucket": "lifeline-9c087.appspot.com"
+    "project_number": "388442329529",
+    "project_id": "life-line-graduation",
+    "storage_bucket": "life-line-graduation.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:919551676172:android:7e88d9fa8fd8a6bc24c329",
-        "android_client_info": {
-          "package_name": "com.android.application"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDCaNRWJDCdm7LhVbQwNLkTEVyqqsaWduc"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:919551676172:android:0a4715fdb065582c24c329",
+        "mobilesdk_app_id": "1:388442329529:android:6bb0e71bf5b09888cb6668",
         "android_client_info": {
           "package_name": "com.example.untitled"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDCaNRWJDCdm7LhVbQwNLkTEVyqqsaWduc"
+          "current_key": "AIzaSyDR5NvTr2C7ivOZB2ZIj-YGmyrS6nUVBGE"
         }
       ],
       "services": {
