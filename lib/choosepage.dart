@@ -1,6 +1,8 @@
 
   import 'package:flutter/material.dart';
   import 'package:flutter/widgets.dart';
+import 'package:untitled/customerhomepage.dart';
+import 'package:untitled/pharmacyhome.dart';
 import 'package:untitled/second_page.dart';
   import 'package:untitled/signin_page.dart';
 import 'package:untitled/storeeditpage.dart';
@@ -49,7 +51,7 @@ import 'package:untitled/third_page.dart';
                 height: 30,
               ),
               GestureDetector(onTap:(){
-                Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => const StoreEditPage()));
+                Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => const PharmHomePage()));
               },
               child: Image.asset('assets/image/pharmacy.png'),),
               Text('Pharmacy',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20,
@@ -58,7 +60,7 @@ import 'package:untitled/third_page.dart';
                 height: 30,
               ),
               GestureDetector(onTap: (){
-                Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => const SigninPage()));
+                Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => const CustomerHomePage()));
               },
               child: Image.asset('assets/image/user.png'),),
               Text('Customer',style: TextStyle(

@@ -1,9 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:untitled/choosepage.dart';
+import 'package:untitled/customerwishlist.dart';
 import 'package:untitled/first_page.dart';
 import 'package:untitled/forgetpassword_page.dart';
 import 'package:untitled/newpass_page.dart';
+import 'package:untitled/pharmacychoose.dart';
 import 'package:untitled/second_page.dart';
 import 'package:untitled/signin_page.dart';
 import 'package:untitled/store_orders.dart';
